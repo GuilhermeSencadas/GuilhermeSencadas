@@ -25,3 +25,4 @@ I've experienced AGILE through SCRUM and I'm hoping to develop my knowledge on S
 ### Other Links:
 
 - [LinkedIn Profile](https://www.linkedin.com/in/guilherme-sencadas-536aa3251/)
+- [Knowledge](https://github.com/GuilhermeSencadas/GuilhermeSencadas/blob/main/Knowledge.md)

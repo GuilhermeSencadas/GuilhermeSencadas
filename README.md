@@ -32,7 +32,7 @@ Atualmente, estou a trabalhar como Engenheiro de Software Júnior, focando no De
 
 ---
 
-#en-US
+# en-US
 
 
 # Welcome :wave:
